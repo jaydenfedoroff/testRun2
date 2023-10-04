@@ -7,5 +7,5 @@ function add6(x) {
 }
 
 function add7(x) {
-    return x + 7;
+  return x + 7;
 }
